@@ -43,6 +43,10 @@ Explore and visualize the data to answer real business questions:
 - Online_Retail_Dashboard.pbix — Power BI dashboard file [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/762d2b4d7de9d6f0d860617bac5f5eb9eeeaf2b3/Online%20Retail%20Project.pbix)
 - Dataset — source transactional data [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/06582884b54827e302d06a09713d8a91f3130cde/Online%20Retail%20Dataset.xlsx)
 - Screenshots/ — dashboard preview images [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/tree/160f9e663c188da1a1fc8299c1cad6b7e8773089/Screenshots)
+  
+
+## Report
+[Download Full Project Report](reports/UK_Retail_Sales_Analysis_Report.pdf)
 
 ## 🎓 Certification
 Completed as part of the Tata Forage Data Visualization Job Simulation. [View Certificate](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/tree/65f0fa4151014c4d6be424934d7cb0f7c39d3a23/Certificate)
