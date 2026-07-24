@@ -37,7 +37,7 @@ Explore and visualize the data to answer real business questions:
 - Data storytelling and dashboard design principles
 
 ## 📁 Files
-- SQL_Queries/ — exploratory analysis queries [View] (https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/bf202a881629b1820a25315042bf23427ccf6126/Retaildataset.sql)
+- SQL_Queries/ — exploratory analysis queries [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/bf202a881629b1820a25315042bf23427ccf6126/Retaildataset.sql)
 - Online_Retail_Dashboard.pbix — Power BI dashboard file
 - Dataset — source transactional data
 - Screenshots/ — dashboard preview images
