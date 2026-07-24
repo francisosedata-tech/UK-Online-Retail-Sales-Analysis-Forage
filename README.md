@@ -46,7 +46,7 @@ Explore and visualize the data to answer real business questions:
   
 
 ## Report
-[Download Full Project Report](reports/UK_Retail_Sales_Analysis_Report.pdf)
+[Download Full Project Report](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/f62da6ad46d4f5b8773310e6de221a376f5823c2/Project%20Report.pdf)
 
 ## 🎓 Certification
 Completed as part of the Tata Forage Data Visualization Job Simulation. [View Certificate](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/tree/65f0fa4151014c4d6be424934d7cb0f7c39d3a23/Certificate)
