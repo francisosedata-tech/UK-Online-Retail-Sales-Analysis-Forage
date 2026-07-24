@@ -1,4 +1,7 @@
-# UK Online Retail Sales Analysis Dashboard
+# UK Online Retail Sales & Growth Analysis 
+
+
+![UK Retail Sales Dashboard](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/1964efbae863e6c1d794a54bd14c80f777e4c6be/Screenshots/UK%20retail%20sales%20dashboard.png)
 
 ## 📌 Overview
 An end-to-end sales analysis project on transactional data from a UK-based 
@@ -7,7 +10,6 @@ Simulation**. SQL was used for exploratory data analysis, with findings
 visualized in an interactive Power BI dashboard tailored to stakeholder 
 needs (CEO and CMO personas).
 
-![UK Retail Sales Dashboard](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/1964efbae863e6c1d794a54bd14c80f777e4c6be/Screenshots/UK%20retail%20sales%20dashboard.png)
 
 ## 🎯 Objective
 Explore and visualize the data to answer real business questions:
@@ -38,7 +40,7 @@ Explore and visualize the data to answer real business questions:
 
 ## 📁 Files
 - SQL_Queries/ — exploratory analysis queries [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/bf202a881629b1820a25315042bf23427ccf6126/Retaildataset.sql)
-- Online_Retail_Dashboard.pbix — Power BI dashboard file
+- Online_Retail_Dashboard.pbix — Power BI dashboard file [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/762d2b4d7de9d6f0d860617bac5f5eb9eeeaf2b3/Online%20Retail%20Project.pbix)
 - Dataset — source transactional data
 - Screenshots/ — dashboard preview images
 
