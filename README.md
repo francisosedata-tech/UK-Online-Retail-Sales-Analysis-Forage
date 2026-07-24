@@ -32,12 +32,12 @@ Explore and visualize the data to answer real business questions:
 - *KPI cards* — total revenue, customer count, regions covered, YoY growth, UK revenue share
 
 ## 🛠️ Tools & Skills
-- *SQL* — exploratory data analysis, querying, data cleaning
+- *SQL* — exploratory data analysis, querying, data cleaning 
 - *Power BI* — data modeling, DAX, interactive visuals, slicers/filters
 - Data storytelling and dashboard design principles
 
 ## 📁 Files
-- SQL_Queries/ — exploratory analysis queries
+- SQL_Queries/ — exploratory analysis queries [View] (https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/bf202a881629b1820a25315042bf23427ccf6126/Retaildataset.sql)
 - Online_Retail_Dashboard.pbix — Power BI dashboard file
 - Dataset — source transactional data
 - Screenshots/ — dashboard preview images
