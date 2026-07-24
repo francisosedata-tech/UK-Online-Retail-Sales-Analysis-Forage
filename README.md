@@ -7,6 +7,8 @@ Simulation**. SQL was used for exploratory data analysis, with findings
 visualized in an interactive Power BI dashboard tailored to stakeholder 
 needs (CEO and CMO personas).
 
+![UK Retail Sales Dashboard]()
+
 ## 🎯 Objective
 Explore and visualize the data to answer real business questions:
 - How does revenue trend month-over-month, and what seasonal patterns exist?
