@@ -45,4 +45,4 @@ Explore and visualize the data to answer real business questions:
 - Screenshots/ — dashboard preview images [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/tree/160f9e663c188da1a1fc8299c1cad6b7e8773089/Screenshots)
 
 ## 🎓 Certification
-Completed as part of the Tata Forage Data Visualization Job Simulation.
+Completed as part of the Tata Forage Data Visualization Job Simulation. [View Certificate](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/tree/65f0fa4151014c4d6be424934d7cb0f7c39d3a23/Certificate)
