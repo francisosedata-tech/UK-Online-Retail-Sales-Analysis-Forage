@@ -42,7 +42,7 @@ Explore and visualize the data to answer real business questions:
 - SQL_Queries/ — exploratory analysis queries [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/bf202a881629b1820a25315042bf23427ccf6126/Retaildataset.sql)
 - Online_Retail_Dashboard.pbix — Power BI dashboard file [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/762d2b4d7de9d6f0d860617bac5f5eb9eeeaf2b3/Online%20Retail%20Project.pbix)
 - Dataset — source transactional data [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/06582884b54827e302d06a09713d8a91f3130cde/Online%20Retail%20Dataset.xlsx)
-- Screenshots/ — dashboard preview images
+- Screenshots/ — dashboard preview images [View](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/tree/160f9e663c188da1a1fc8299c1cad6b7e8773089/Screenshots)
 
 ## 🎓 Certification
 Completed as part of the Tata Forage Data Visualization Job Simulation.
