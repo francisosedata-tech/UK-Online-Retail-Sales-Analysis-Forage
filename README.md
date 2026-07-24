@@ -7,7 +7,7 @@ Simulation**. SQL was used for exploratory data analysis, with findings
 visualized in an interactive Power BI dashboard tailored to stakeholder 
 needs (CEO and CMO personas).
 
-![UK Retail Sales Dashboard]()
+![UK Retail Sales Dashboard](https://github.com/francisosedata-tech/UK-Online-Retail-Sales-Analysis-Forage/blob/1964efbae863e6c1d794a54bd14c80f777e4c6be/Screenshots/UK%20retail%20sales%20dashboard.png)
 
 ## 🎯 Objective
 Explore and visualize the data to answer real business questions:
